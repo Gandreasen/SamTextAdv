@@ -8,6 +8,17 @@
 //  Hello there 465464565465
 
 
+// Hey, this is preston.
+
+/*
+   This is me demontrating that you can create seperate branches off of the master 
+   file, this is primarily used by teams working on github without communication.
+   
+   From the seperate branches that anyone can create. The Creator of the project 
+   is the one to authorize any commits to the master file. They can also revert to older commits
+   
+   */
+
 import java.util.Scanner;
 
 public class MyClass{
