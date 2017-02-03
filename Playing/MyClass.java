@@ -29,12 +29,12 @@ public class MyClass{
             System.out.print("The entered value is " );
             System.out.println(user_input_number );
             
-        if (user_input_number < 50)   
+        if (user_input_number < 18)   
             System.out.println("Check the id, they may be too young.");
-        else if (user_input_number > 50) 
-            System.out.println("I see you like them older.");
+        else if (user_input_number > 18) 
+            System.out.println("I see you you can vote.");
         else
-            System.out.println("Wow, 50?  Getting there");
+            System.out.println("Wow, 18?  Not a chance I would want to be that young again.");
             
             
         System.out.println("What are you doing this weekend?");
